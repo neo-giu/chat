@@ -17,7 +17,7 @@
 }
 .chat_line {
 	outline: 1px ridge #cbdbfc;
-	border-radius: 0.10rem;
+	border-radius: 0.5rem;
 	color: #cbdbfc !important;
     margin: 2px 2px 2px !important;
     padding: 0.4em 0.6em !important;
